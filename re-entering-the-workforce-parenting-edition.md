@@ -13,6 +13,11 @@ Leave this session with some memory tags on how we can support parents as an org
 
 [Slides]()
 
+## Strategies
+
+- [Spoon Theory](https://en.wikipedia.org/wiki/Spoon_theory)
+- [Eisenhower Decision Matrix](https://jamesclear.com/eisenhower-box)
+
 ## Books
 
 - [I thought it was just me (but it isn't)](https://amzn.eu/d/cfafs8F)
