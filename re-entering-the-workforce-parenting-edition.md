@@ -18,6 +18,10 @@ Leave this session with some memory tags on how we can support parents as an org
 - [Spoon Theory](https://en.wikipedia.org/wiki/Spoon_theory)
 - [Eisenhower Decision Matrix](https://jamesclear.com/eisenhower-box)
 
+## Scientific articles
+
+- [Matrescence: Lifetime Impact of Motherhood on Cognition and the Brain](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9957969/)
+
 ## Books
 
 - [I thought it was just me (but it isn't)](https://amzn.eu/d/cfafs8F)
