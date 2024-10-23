@@ -11,7 +11,7 @@ In this session, I will share what I have learned, which tools worked and how I 
 It is important to raise awareness of the challenges, pain and dilemmas many of us deal with as new parents, the skills we learn and how our view of the world changes. We will go through what that looks like biologically, and the different phases one goes through from when a baby is born, through the joys of joint parental leave, maternity leave and workforce re-entry.
 Leave this session with some memory tags on how we can support parents as an organization, as managers, as co-workers and ultimately as humans.
 
-[Slides]()
+[Slides](https://github.com/NChaganlal/talks/blob/main/Re-entering%20the%20workforce%20-%20Parenting%20Edition.pdf)
 
 ## Strategies
 
