@@ -13,6 +13,9 @@ Leave this session with some memory tags on how we can support parents as an org
 
 [Slides](https://github.com/NChaganlal/talks/blob/main/Re-entering%20the%20workforce%20-%20Parenting%20Edition.pdf)
 
+## Featured in
+- NDC Porto 2024
+
 ## Strategies
 
 - [Spoon Theory](https://en.wikipedia.org/wiki/Spoon_theory)
